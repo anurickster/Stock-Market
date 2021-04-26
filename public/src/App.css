@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  background-color: rgb(19, 57, 141);
+  padding:0.6rem 2rem;
+}
+
+.navbar img{
+  width: 10rem;
+}
+
+.cardcontainer{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.mycard{
+  border: dashed 1px rgba(128, 128, 128, 0.452);
+  padding: 2.5rem 0;
+  width: 22rem;
+  margin: 1rem;
+  box-shadow: 0 0 10px 0 rgb(255, 255, 255);
+  background-color: rgba(218, 218, 218, 0.253);;
+}
+
+.mycard img{
+  width: 3rem;
+}
+
+.cardtitle{
+  margin: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cardshares{
+  text-align: center;
+  font-size: 1.8rem;
+  font: bold;
+}
+
+.head1{
+  font-weight: bold;
+}
+
+.mybutton{
+  background-color: purple !important;
+  color: white !important;
+}
+
+.pagebutton{
+  margin-bottom: 2rem !important;
+  border: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background: transparent;
+  cursor: pointer;
+  padding: 0px 12px; 
+}
+.pagenumber{
+  margin-bottom: 1.55rem !important;
+}

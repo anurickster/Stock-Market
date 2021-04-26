@@ -1,0 +1,17 @@
+[
+    {
+        "company": "GOOGL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/768px-Google_%22G%22_Logo.svg.png",
+        "shares": "1515 $"
+    },
+    {
+        "company": "FB",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/1024px-Facebook_logo_36x36.svg.png",
+        "shares": "266 $"
+    },
+    {
+        "company": "AMZN",
+        "logo": "https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg",
+        "shares": "3116 $"
+    }
+]
